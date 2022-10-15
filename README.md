@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imonkfcwifi but you can call me zolgae or whatever you want
 - 👀 I’m interested in ... practice JS and some new codes!
-- 🌱 I’m currently learning ... Js,html,css
+- 🌱 I’m currently learning ... Js,html,css,node js,mongoose
 - 🤔 i made KOKOA TALK Clone, SPURS TodoList, MEME-Maker
 - 😎 i will back as soon as possible when i learn the node js !
  
