@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... practice JS and some new codes!
 - 🌱 I’m currently learning ... Js,html,css,node js,mongoose
 - 🤔 i made KOKOA TALK Clone, SPURS TodoList, MEME-Maker, youtube
-- 😎 i will back as soon as possible when i learn the node js !
+- 😎 im learning Node JS, Mongoose, MongoDB, Pug!!
  
 <!---
 imonkfcwifi/imonkfcwifi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
