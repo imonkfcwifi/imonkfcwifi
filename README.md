@@ -24,6 +24,7 @@
  <img src="https://img.shields.io/badge/Node.js-7CB701?style=flat&logo=Node.js&logoColor=#339933" />
  <img src="https://img.shields.io/badge/Pug-86675D?style=flat&logo=Pug&logoColor=#A86454" />
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+	 <img src="https://img.shields.io/badge/Dart-61DAFB?style=flat&logo=Dart&logoColor=white"/>
 </div>
 
 <div align="center">
