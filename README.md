@@ -6,7 +6,7 @@
 - <br>
 - 👀 I am a transportation engineer!
 - <br>
-- 🌱 Recently, I am studying the following ... React JS
+- 🌱 Recently, I am studying the following ... Dart, Flutter!
 - <br>
 - 🤔 i made KOKOA TALK Clone, SPURS TodoList, MEME-Maker, TheKoreanLeague !
 - <br>
