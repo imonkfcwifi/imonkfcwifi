@@ -7,6 +7,7 @@
 - Yongin Light Rail (Everline) (2017~2018)
 - Daegu Metropolitan Transit Corporation (2022~2023)
 - I started learning programming on my own from August 23 2022
+- Now I'm focusing on <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
 ## 🚶‍♂️ My lil Steps
 
