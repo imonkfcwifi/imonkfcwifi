@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Rect&color=auto&height=100&section=header&text=🍔imonkfcwifi🍔&fontSize=90" />
 
 
-## 🍔  How am i?
+## 🍔  Who am i?
 - Myongji University Department of Transportation Engineering bachelor's degree
 - Engineer Transportation certificate holder (交通技士)
 - Yongin Light Rail (Everline) (2017~2018)
