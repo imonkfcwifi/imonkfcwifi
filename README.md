@@ -24,12 +24,17 @@
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=imonkfcwifi&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
+  <a href="https://opgc.me/#/users/imonkfcwifi" target="_blank"><img src="https://api.opgc.me/githubs/users/imonkfcwifi/tag/?theme=basic" /></a>
 
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imonkfcwifi&hide_border=true&layout=compact" align="left" style="width: 90%" />
 
+  
+  
 </td></tr></table>  
 
 <br/> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimonkfcwifi&count_bg=%23000000&title_bg=%23F20000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+
+
