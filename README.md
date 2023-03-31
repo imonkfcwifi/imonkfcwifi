@@ -6,6 +6,7 @@
 - Engineer Transportation certificate holder (交通技士)
 - Yongin Light Rail (Everline) (2017~2018)
 - Daegu Metropolitan Transit Corporation (2022~2023)
+- Intelligent Transport Systems of Korea (2024~)
 - I started learning programming on my own from August 23 2022
 - Now I'm focusing on <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
