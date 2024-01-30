@@ -4,9 +4,7 @@
 ## 🍔  Who am i?
 - Myongji University Department of Transportation Engineering bachelor's degree
 - Engineer Transportation certificate holder (交通技士)
-- Yongin Light Rail (Everline) (2017~2018)
-- Daegu Metropolitan Transit Corporation (2022~2023)
-- Intelligent Transport Systems of Korea (2024~)
+- Yongin Light Rail (Everline) 
 - I started learning programming on my own from August 23 2022
 - My First App - Target Manager
 - Now I'm focusing on  &nbsp;  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
