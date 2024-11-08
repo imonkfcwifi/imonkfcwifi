@@ -1,19 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=Rect&color=auto&height=100&section=header&text=🍔imonkfcwifi🍔&fontSize=90" />
 
 
-## 🍔  Who am i?
+# 🍔  Who Am I ?
 - Myongji University Department of Transportation Engineering bachelor's degree
-- Engineer Transportation certificate holder (交通技士)
-- Yongin Light Rail (Everline) 
+- Engineer Transportation certificate holder (交通技士) 
 - I started learning programming on my own from August 23 2022
-- My App - Target Manager / Call Back Sheet
+- Published Apps : Target Manager - Call Back Sheet
 - Now I'm focusing on  &nbsp;  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> &nbsp;  <img src="https://img.shields.io/badge/python-02569B?style=for-the-badge&logo=python&logoColor=white">
 
-## 🥳 My Professional experience
-- Incruit Corporation - Strategic Business 🧑‍💼
-- **Korea Road Association - Road Traffic Researcher** 🧑‍🏫
-  
-## 🚶‍♂️ My lil Steps
+# 🤹 My Skills
 
 <div align=center>
 
@@ -23,20 +18,31 @@
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/qgis-589632?style=for-the-badge&logo=qgis&logoColor=white">
+<img src="https://img.shields.io/badge/autocad-E51050?style=for-the-badge&logo=autocad&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
 </div>
 
-<table><tr><td valign="top" width="50%">
+# 🕵️ My Professional experience
+- Incruit Corporation - Strategic Business 🧑‍💼
+- ***Korea Road Association - Road Traffic Researcher*** 🧑‍🏫 (Now)
+  
 
-<img src="https://github-readme-stats.vercel.app/api?username=imonkfcwifi&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
+
+<!--<table><tr><td valign="top" width="50%">
+
+<!--<img src="https://github-readme-stats.vercel.app/api?username=imonkfcwifi&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
 
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imonkfcwifi&hide_border=true&layout=compact" align="left" style="width: 90%" />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imonkfcwifi&hide_border=true&layout=compact" align="left" style="width: 90%" />-->
 
   
   
-</td></tr></table>  
+<!--</td></tr></table>  
 
 <br/> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimonkfcwifi&count_bg=%23000000&title_bg=%23F20000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
