@@ -8,7 +8,7 @@
 - I started learning programming on my own from August 23 2022
 - My First App - Target Manager
 - Now I'm focusing on  &nbsp;  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-
+- I work as a road traffic research engineer at the Korea Road Association. 
 ## 🚶‍♂️ My lil Steps
 
 <div align=center>
