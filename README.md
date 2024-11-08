@@ -6,9 +6,13 @@
 - Engineer Transportation certificate holder (交通技士)
 - Yongin Light Rail (Everline) 
 - I started learning programming on my own from August 23 2022
-- My First App - Target Manager
-- Now I'm focusing on  &nbsp;  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-- I work as a road traffic research engineer at the Korea Road Association. 
+- My App - Target Manager / Call Back Sheet
+- Now I'm focusing on  &nbsp;  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> &nbsp;  <img src="https://img.shields.io/badge/python-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+
+## 🥳 My Professional experience
+- Incruit Corporation - Strategic Business 🧑‍💼
+- **Korea Road Association - Road Traffic Researcher** 🧑‍🏫
+  
 ## 🚶‍♂️ My lil Steps
 
 <div align=center>
