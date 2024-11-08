@@ -7,7 +7,7 @@
 - Yongin Light Rail (Everline) 
 - I started learning programming on my own from August 23 2022
 - My App - Target Manager / Call Back Sheet
-- Now I'm focusing on  &nbsp;  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> &nbsp;  <img src="https://img.shields.io/badge/python-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+- Now I'm focusing on  &nbsp;  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> &nbsp;  <img src="https://img.shields.io/badge/python-02569B?style=for-the-badge&logo=python&logoColor=white">
 
 ## 🥳 My Professional experience
 - Incruit Corporation - Strategic Business 🧑‍💼
