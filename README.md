@@ -32,7 +32,7 @@
 - ***Korea Road Association - Road Traffic Researcher*** 🧑‍🏫 (Now)
 
 <div style="text-align: left;">
-    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍🍼 Would you like to eat a burger with me? </h1>
+    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👇 Buger with me button </h1>
     <div style="text-align: left;"> <a href=mailto:devimonkfcwifi@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:devimonkfcwifi@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
