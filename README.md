@@ -2,9 +2,10 @@
 
 
 # 🍔  Who Am I ?
+- Howdy my friends! 
 - Myongji University Department of Transportation Engineering bachelor's degree
 - Engineer Transportation certificate holder (交通技士) 
-- I started learning programming on my own from August 23 2022
+- I started learning programming on my own from August 23 2022 &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fimonkfcwifi&count_bg=%23000000&title_bg=%23555555&icon=visualstudiocode.svg&icon_color=%23FFFFFF&title=imonkfcwifi&edge_flat=true)](https://hits.seeyoufarm.com) 
 - Published Apps : Target Manager - Call Back Sheet
 - Now I'm focusing on  &nbsp;  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> &nbsp;  <img src="https://img.shields.io/badge/python-02569B?style=for-the-badge&logo=python&logoColor=white">
 
@@ -22,6 +23,7 @@
 <img src="https://img.shields.io/badge/qgis-589632?style=for-the-badge&logo=qgis&logoColor=white">
 <img src="https://img.shields.io/badge/autocad-E51050?style=for-the-badge&logo=autocad&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
 
 </div>
 
