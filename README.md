@@ -1,13 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=Rect&color=auto&height=100&section=header&text=🍔imonkfcwifi🍔&fontSize=90" />
 
-
 # 🍔  Who Am I ?
 
 - Myongji University Department of Transportation Engineering bachelor's degree
 - Engineer Transportation certificate holder (交通技士) 
 - I started learning programming on my own from August 23 2022 &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fimonkfcwifi&count_bg=%23000000&title_bg=%23555555&icon=visualstudiocode.svg&icon_color=%23FFFFFF&title=imonkfcwifi&edge_flat=true)](https://hits.seeyoufarm.com) 
 - Published Apps : Target Manager - Call Back Sheet
-- Now I'm focusing on  &nbsp;  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> &nbsp;  <img src="https://img.shields.io/badge/python-02569B?style=for-the-badge&logo=python&logoColor=white">
+- Now I'm focusing on  &nbsp;YOLO, Deep learning &nbsp; <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> &nbsp;  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 # 🤹 My Skills
 
@@ -33,6 +32,9 @@
 
 <div style="text-align: left;">
     <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👇 Buger with me button </h1>
+
+
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVjd2Zhb3l2djc2eWtoeGRnZmltd2VyYzQwMnI4dHkzMTc5bHV6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="100"/>
     <div style="text-align: left;"> <a href=mailto:devimonkfcwifi@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:devimonkfcwifi@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
