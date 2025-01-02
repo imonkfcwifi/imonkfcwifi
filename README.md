@@ -28,7 +28,7 @@
 
 # 🕵️ My Professional experience
 - Incruit Corporation - Strategic Business 🧑‍💼
-- ***Korea Road Association - R&D Center : Road & Transportation Research Division - Researcher(主任硏究員)*** 🧑‍🏫 (Now)
+- ***Korea Road Association - R&D Center : Road & Transportation Research Division - Researcher (主任硏究員)*** 🧑‍🏫 (Now)
 
 <div style="text-align: left;">
     <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👇 Buger with me button </h1>
