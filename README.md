@@ -6,7 +6,8 @@
 - Engineer Transportation certificate holder (交通技士) 
 - I started learning programming on my own from August 23 2022 &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fimonkfcwifi&count_bg=%23000000&title_bg=%23555555&icon=visualstudiocode.svg&icon_color=%23FFFFFF&title=imonkfcwifi&edge_flat=true)](https://hits.seeyoufarm.com) 
 - Published Apps : Target Manager - Call Back Sheet
-- Now I'm focusing on  &nbsp;YOLO, Deep learning &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+- Program : VDS Statistical Analyzer , TrafficVision AI: Speed & Lane Change Analyzer
+- Now I'm focusing on  &nbsp;YOLO, Deep learning 
 
 # 🤹 My Skills
 
