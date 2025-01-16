@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/autocad-E51050?style=for-the-badge&logo=autocad&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/yolo-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/yolo11-412991?style=for-the-badge&logo=openai&logoColor=white">
 
 
 </div>
