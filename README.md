@@ -30,7 +30,7 @@
 </div>
 
 # 🕵️ My Professional experience
-- Incruit Corporation - Strategic Business 🧑‍💼
+- Incruit Corporation - Strategic Business (PM) 🧑‍💼
 - ***Korea Road Association - R&D Center : Road & Transportation Research Division - Researcher (主任硏究員)*** 🧑‍🏫 (Now)
 
 <div style="text-align: left;">
