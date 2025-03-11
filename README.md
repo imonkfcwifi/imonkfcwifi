@@ -7,7 +7,7 @@ Road &amp; Transportation Research Dept.</p>
 <li>Myongji University Department of Transportation Engineering bachelor’s degree</li>
 <li>Engineer Transportation certificate holder (交通技士)</li>
 </ul>
-</div></div><div data-v-3530fdca=""><div data-v-3530fdca="" class="is-padding-bottom-4"><h2>Publications</h2>
+</div></div><div data-v-3530fdca=""><div data-v-3530fdca="" class="is-padding-bottom-4"><h2>Developed</h2>
 <ul>
 <li><strong>The Call Back Sheet</strong></li>
 <li><strong>Target Manager</strong></li>
@@ -27,6 +27,6 @@ Researcher, <em>2025-</em>
 </div></div><div data-v-3530fdca=""><div data-v-3530fdca="" class="is-padding-bottom-4"><h2>Contact</h2>
 <p><strong>U-Hyun Roh</strong><br>
 <a href="mailto:Roh@kroad.or.kr">Roh@kroad.or.kr</a><br>
-Reasearcher<br>
-Korea Road Association Road &amp; Transportation Resarch Dept. R&amp;D Center<br>
+Researcher<br>
+Korea Road Association Road &amp; Transportation Research Dept. R&amp;D Center<br>
 SeongNam, South Korea</p>
