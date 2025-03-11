@@ -1,7 +1,8 @@
 ## imonkfcwifi
-  </div> <img data-v-239a319a="" src="https://cdn.wikirby.com/thumb/c/ca/KatFL_Wise_Waddle_Dee_screenshot.png/250px-KatFL_Wise_Waddle_Dee_screenshot.png" class="profile"> <div data-v-239a319a="" class="content has-text-centered"><p>Researcher<br>
+  </div> <img data-v-239a319a="" src="https://cdn.wikirby.com/thumb/c/ca/KatFL_Wise_Waddle_Dee_screenshot.png/250px-KatFL_Wise_Waddle_Dee_screenshot.png" class="profile"> 
+  <div data-v-239a319a="" class="content has-text-centered"><p><strong>U-Hyun Roh</strong><br> Researcher<br>
 Road &amp; Transportation Research Dept.</p>
-<p><a href="mailto:roh@kroad.or.kr">Email</a> / <a href="https://github.com/imonkfcwifi">GitHub</a></p>
+
 </div></div></div></div> <div data-v-3530fdca="" class="body-column is-padding-vertical-4 content"><div data-v-3530fdca="" class="is-padding-horizontal-2"><div data-v-3530fdca=""><div data-v-3530fdca="" class="is-padding-bottom-4"><h2>Intro</h2>
 <ul>
 <li>Myongji University Department of Transportation Engineering bachelor’s degree</li>
@@ -25,8 +26,4 @@ Researcher, <em>2025-</em>
 </li>
 </ul>
 </div></div><div data-v-3530fdca=""><div data-v-3530fdca="" class="is-padding-bottom-4"><h2>Contact</h2>
-<p><strong>U-Hyun Roh</strong><br>
-<a href="mailto:Roh@kroad.or.kr">Roh@kroad.or.kr</a><br>
-Researcher<br>
-Korea Road Association Road &amp; Transportation Research Dept. R&amp;D Center<br>
-SeongNam, South Korea</p>
+<p><a href="mailto:roh@kroad.or.kr">Email</a> / <a href="https://github.com/imonkfcwifi">GitHub</a></p>
