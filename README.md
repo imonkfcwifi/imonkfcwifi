@@ -16,9 +16,9 @@ Road &amp; Transportation Research Dept.</p>
 </ul>
 </div></div><div data-v-3530fdca=""><div data-v-3530fdca="" class="is-padding-bottom-4"><h2>Work Experiences</h2>
 <ul>
-<li><strong><a href="https://www.incruit.com/">Incruit Co.</a></strong>, Seoul, South Korea<br>
+<li><strong><a href="https://www.incruit.com/">Incruit Co.</a></strong><br>
 PM, <em>2024</em></li>
-<li><strong><a href="https://www.kroad.or.kr/">Korea Road Association</a></strong>, Seongnam, South Korea<br>
+<li><strong><a href="https://www.kroad.or.kr/">Korea Road Association</a></strong><br>
 Researcher, <em>2025-</em>
 <ul>
 <li>Developed Traffic Super Vision</li>
