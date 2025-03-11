@@ -1,4 +1,32 @@
-<img src="https://capsule-render.vercel.app/api?type=Rect&color=auto&height=100&section=header&text=🍔imonkfcwifi🍔&fontSize=90" />
 
-# Check This Out
-- https://imonkfcwifi.github.io/
+  </div> <img data-v-239a319a="" src="https://avatars.githubusercontent.com/u/110550852?v=4" class="profile"> <div data-v-239a319a="" class="content has-text-centered"><p>Researcher<br>
+Road &amp; Transportation Research Dept.</p>
+<p><a href="mailto:roh@kroad.or.kr">Email</a> / <a href="https://github.com/imonkfcwifi">GitHub</a></p>
+</div></div></div></div> <div data-v-3530fdca="" class="body-column is-padding-vertical-4 content"><div data-v-3530fdca="" class="is-padding-horizontal-2"><div data-v-3530fdca=""><div data-v-3530fdca="" class="is-padding-bottom-4"><h2>Intro</h2>
+<ul>
+<li>Myongji University Department of Transportation Engineering bachelor’s degree</li>
+<li>Engineer Transportation certificate holder (交通技士)</li>
+</ul>
+</div></div><div data-v-3530fdca=""><div data-v-3530fdca="" class="is-padding-bottom-4"><h2>Publications</h2>
+<ul>
+<li><strong>The Call Back Sheet</strong></li>
+<li><strong>Target Manager</strong></li>
+<li><strong>Traffic Super Vision</strong></li>
+</ul>
+</div></div><div data-v-3530fdca=""><div data-v-3530fdca="" class="is-padding-bottom-4"><h2>Work Experiences</h2>
+<ul>
+<li><strong><a href="https://www.incruit.com/">Incruit Co.</a></strong>, Seoul, South Korea<br>
+PM, <em>2024</em></li>
+<li><strong><a href="https://www.kroad.or.kr/">Korea Road Association</a></strong>, Seongnam, South Korea<br>
+Researcher, <em>2025-</em>
+<ul>
+<li>Developed Traffic Super Vision</li>
+</ul>
+</li>
+</ul>
+</div></div><div data-v-3530fdca=""><div data-v-3530fdca="" class="is-padding-bottom-4"><h2>Contact</h2>
+<p><strong>U-Hyun Roh</strong><br>
+<a href="mailto:Roh@kroad.or.kr">Roh@kroad.or.kr</a><br>
+Reasearcher<br>
+Korea Road Association Road &amp; Transportation Resarch Dept. R&amp;D Center<br>
+SeongNam, South Korea</p>
