@@ -26,4 +26,4 @@ Researcher, <em>2025-</em>
 </li>
 </ul>
 </div></div><div data-v-3530fdca=""><div data-v-3530fdca="" class="is-padding-bottom-4"><h2>Contact</h2>
-<p><a href="mailto:roh@kroad.or.kr">Email</a> / <a href="https://github.com/imonkfcwifi">GitHub</a></p>
+<p><a href="mailto:roh@kroad.or.kr">Email</a> / <a href="https://github.com/imonkfcwifi">GitHub</a> / <a href="https://imonkfcwifi.github.io/">Card</a></p> 
