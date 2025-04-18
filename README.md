@@ -11,7 +11,7 @@ B.Sc. in Transportation Engineering, <em>2017-2022</em></li>
 </ul>
 </div></div><div data-v-3530fdca=""><div data-v-3530fdca="" class="is-padding-bottom-4"><h2>Developed</h2>
 <ul>
-<li><strong>The Call Back Sheet</strong></li>
+<li><strong>Callback Sheet</strong></li>
 <li><strong>Target Manager</strong></li>
 <li><strong>Traffic Super Vision</strong></li>
 <li><strong>Pipe-Core</strong></li>
