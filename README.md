@@ -5,8 +5,7 @@ Road &amp; Transportation Research Dept.</p>
 
 </div></div></div></div> <div data-v-3530fdca="" class="body-column is-padding-vertical-4 content"><div data-v-3530fdca="" class="is-padding-horizontal-2"><div data-v-3530fdca=""><div data-v-3530fdca="" class="is-padding-bottom-4"><h2>Intro</h2>
 <ul>
-<li>Myongji University <br>
-B.Sc. in Transportation Engineering, <em>2017-2022</em></li>
+<li>Dept. of Civil & Environmental Engineering, Seoul National Univ</li>
 <li>Engineer Transportation certificate holder (交通技士)</li>
 </ul>
 </div></div><div data-v-3530fdca=""><div data-v-3530fdca="" class="is-padding-bottom-4"><h2>Developed</h2>
