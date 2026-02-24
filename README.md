@@ -22,8 +22,9 @@ Road &amp; Transportation Research Dept.</p>
 PM, <em>2024</em></li>
 <li><strong><a href="https://www.kroad.or.kr/">Korea Road Association</a></strong><br>
 Researcher, <em>2025-</em>
+<li><strong><a href="https://gdg.community.dev/gdg-ai-for-science-korea/">Google Developer Groups - AI for Science Korea</a></strong><br>
+Member, <em>2026-</em></li>
 <ul>
-<li>Developed Traffic Super Vision</li>
 </ul>
 </li>
 </ul>
