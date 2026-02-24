@@ -14,6 +14,7 @@ Road &amp; Transportation Research Dept.</p>
 <li><strong>Target Manager</strong></li>
 <li><strong>Traffic Super Vision</strong></li>
 <li><strong>Pipe-Core</strong></li>
+<li><strong>Deus-Ex</strong></li>
 </ul>
 </div></div><div data-v-3530fdca=""><div data-v-3530fdca="" class="is-padding-bottom-4"><h2>Work Experiences</h2>
 <ul>
